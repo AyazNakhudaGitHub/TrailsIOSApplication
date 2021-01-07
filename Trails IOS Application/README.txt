@@ -1,0 +1,1 @@
+	The purpose of this project is to get familiar with making IOS applications, using the Swift programming language and using API's.
