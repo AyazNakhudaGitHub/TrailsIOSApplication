@@ -92,7 +92,7 @@ struct ContentView: View {
                 
             
             }
-        //vstack stannds for vertical stacks and I belive that it allows for text fields to be plaved one ontop of another text field.
+        //vstack stands for vertical stacks and I belive that it allows for text fields to be plaved one ontop of another text field.
             
             
         }
